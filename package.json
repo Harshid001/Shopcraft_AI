@@ -1,0 +1,11 @@
+{
+  "name": "shopcraft-ai",
+  "version": "0.1.0",
+  "description": "AI-powered e-commerce platform",
+  "scripts": {
+    "dev": "node server/src/index.js",
+    "start": "node server/src/index.js",
+    "test": "jest"
+  },
+  "private": true
+}
